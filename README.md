@@ -1,4 +1,4 @@
-# Pós Graduação Engenheiria de Dados 
+# Pós Graduação Engenharia de Dados 
 
 | [01 - Bancos de Dados Relacionais e Linguagem SQL (2024)](https://pucminas.instructure.com/courses/176322) | **❤️** |
 | --- | --- |
